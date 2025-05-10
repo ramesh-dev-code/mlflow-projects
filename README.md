@@ -3,7 +3,7 @@
 Processor: Intel Core Ultra 7 155H   
 iGPU: Intel Arc Graphics   
 NPU: Intel AI Boost   
-dGPU: Nvidia GeForce RTX 4060 GPU
+dGPU: Nvidia GeForce RTX 4060 GPU   
 OS: Windows 11 Home(24H2)   
 RAM: 16GB   
 Python: 3.10.11
